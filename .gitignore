@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/JoeRamTestSite/Properties/ServiceDependencies/joeram1 - Zip Deploy/profile.arm.json
